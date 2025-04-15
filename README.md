@@ -1,7 +1,5 @@
 # Content-Based Movie Recommendation System
 
-## Overview
-
 In this project, the recommendation process leverages a vector-based approach to model movies, where each movie is represented as a vector of 100 items that encapsulate various features and characteristics(The process of creating these vectors is explained in the `vectorize_movies.ipynb` notebook.). This vectorization enables the system to assess similarity among movies by calculating the distance between their respective vectors in a multidimensional space.
 
 ## Getting Started
